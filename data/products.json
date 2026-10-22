@@ -1,0 +1,441 @@
+[
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "category": "vegetables",
+    "price": 32,
+    "unit": "kg",
+    "image": "/images/vegetables/tomato.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "onion",
+    "name": "Onion",
+    "category": "vegetables",
+    "price": 38,
+    "unit": "kg",
+    "image": "/images/vegetables/onion.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "potato",
+    "name": "Potato",
+    "category": "vegetables",
+    "price": 28,
+    "unit": "kg",
+    "image": "/images/vegetables/potato.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "carrot",
+    "name": "Carrot",
+    "category": "vegetables",
+    "price": 45,
+    "unit": "kg",
+    "image": "/images/vegetables/carrot.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "brinjal",
+    "name": "Brinjal",
+    "category": "vegetables",
+    "price": 36,
+    "unit": "kg",
+    "image": "/images/vegetables/brinjal.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "ladies-finger",
+    "name": "Ladies Finger",
+    "category": "vegetables",
+    "price": 42,
+    "unit": "kg",
+    "image": "/images/vegetables/ladies-finger.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "cabbage",
+    "name": "Cabbage",
+    "category": "vegetables",
+    "price": 26,
+    "unit": "piece",
+    "image": "/images/vegetables/cabbage.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "cauliflower",
+    "name": "Cauliflower",
+    "category": "vegetables",
+    "price": 35,
+    "unit": "piece",
+    "image": "/images/vegetables/cauliflower.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "beans",
+    "name": "Green Beans",
+    "category": "vegetables",
+    "price": 50,
+    "unit": "kg",
+    "image": "/images/vegetables/beans.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "capsicum",
+    "name": "Capsicum",
+    "category": "vegetables",
+    "price": 48,
+    "unit": "kg",
+    "image": "/images/vegetables/capsicum.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "cucumber",
+    "name": "Cucumber",
+    "category": "vegetables",
+    "price": 30,
+    "unit": "kg",
+    "image": "/images/vegetables/cucumber.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "beetroot",
+    "name": "Beetroot",
+    "category": "vegetables",
+    "price": 40,
+    "unit": "kg",
+    "image": "/images/vegetables/beetroot.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "spinach",
+    "name": "Spinach",
+    "category": "vegetables",
+    "price": 18,
+    "unit": "bunch",
+    "image": "/images/vegetables/spinach.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "coriander",
+    "name": "Coriander",
+    "category": "vegetables",
+    "price": 12,
+    "unit": "bunch",
+    "image": "/images/vegetables/coriander.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "chilli",
+    "name": "Green Chilli",
+    "category": "vegetables",
+    "price": 55,
+    "unit": "kg",
+    "image": "/images/vegetables/chilli.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger",
+    "category": "vegetables",
+    "price": 80,
+    "unit": "kg",
+    "image": "/images/vegetables/ginger.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "garlic",
+    "name": "Garlic",
+    "category": "vegetables",
+    "price": 95,
+    "unit": "kg",
+    "image": "/images/vegetables/garlic.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "peas",
+    "name": "Green Peas",
+    "category": "vegetables",
+    "price": 60,
+    "unit": "kg",
+    "image": "/images/vegetables/peas.svg",
+    "offer": "vegetable10"
+  },
+  {
+    "id": "hair-clips",
+    "name": "Colorful Hair Clips",
+    "category": "girls-accessories",
+    "price": 45,
+    "unit": "set",
+    "image": "/images/girls-accessories/hair-clips.svg",
+    "offer": "bogo"
+  },
+  {
+    "id": "hair-band",
+    "name": "Flower Hair Band",
+    "category": "girls-accessories",
+    "price": 80,
+    "unit": "piece",
+    "image": "/images/girls-accessories/hair-band.svg"
+  },
+  {
+    "id": "bracelet",
+    "name": "Beaded Bracelet",
+    "category": "girls-accessories",
+    "price": 65,
+    "unit": "piece",
+    "image": "/images/girls-accessories/bracelet.svg",
+    "offer": "bogo"
+  },
+  {
+    "id": "bow-clip",
+    "name": "Pretty Bow Clip",
+    "category": "girls-accessories",
+    "price": 35,
+    "unit": "piece",
+    "image": "/images/girls-accessories/bow-clip.svg"
+  },
+  {
+    "id": "kids-purse",
+    "name": "Mini Sling Purse",
+    "category": "girls-accessories",
+    "price": 180,
+    "unit": "piece",
+    "image": "/images/girls-accessories/kids-purse.svg"
+  },
+  {
+    "id": "anklet",
+    "name": "Silver Anklet",
+    "category": "girls-accessories",
+    "price": 120,
+    "unit": "pair",
+    "image": "/images/girls-accessories/anklet.svg"
+  },
+  {
+    "id": "hair-brush",
+    "name": "Gentle Hair Brush",
+    "category": "girls-accessories",
+    "price": 95,
+    "unit": "piece",
+    "image": "/images/girls-accessories/hair-brush.svg"
+  },
+  {
+    "id": "scrunchies",
+    "name": "Soft Scrunchies",
+    "category": "girls-accessories",
+    "price": 55,
+    "unit": "set",
+    "image": "/images/girls-accessories/scrunchies.svg"
+  },
+  {
+    "id": "toy-watch",
+    "name": "Kids Watch",
+    "category": "girls-accessories",
+    "price": 150,
+    "unit": "piece",
+    "image": "/images/girls-accessories/toy-watch.svg"
+  },
+  {
+    "id": "toy-car",
+    "name": "Mini Toy Car",
+    "category": "boys-accessories",
+    "price": 90,
+    "unit": "piece",
+    "image": "/images/boys-accessories/toy-car.svg",
+    "offer": "bogo"
+  },
+  {
+    "id": "cap",
+    "name": "Cotton Cap",
+    "category": "boys-accessories",
+    "price": 140,
+    "unit": "piece",
+    "image": "/images/boys-accessories/cap.svg"
+  },
+  {
+    "id": "football",
+    "name": "Play Football",
+    "category": "boys-accessories",
+    "price": 220,
+    "unit": "piece",
+    "image": "/images/boys-accessories/football.svg"
+  },
+  {
+    "id": "sunglasses",
+    "name": "Kids Sunglasses",
+    "category": "boys-accessories",
+    "price": 110,
+    "unit": "piece",
+    "image": "/images/boys-accessories/sunglasses.svg",
+    "offer": "bogo"
+  },
+  {
+    "id": "building-blocks",
+    "name": "Building Blocks",
+    "category": "boys-accessories",
+    "price": 190,
+    "unit": "set",
+    "image": "/images/boys-accessories/building-blocks.svg"
+  },
+  {
+    "id": "toy-train",
+    "name": "Little Toy Train",
+    "category": "boys-accessories",
+    "price": 175,
+    "unit": "piece",
+    "image": "/images/boys-accessories/toy-train.svg"
+  },
+  {
+    "id": "water-gun",
+    "name": "Water Blaster",
+    "category": "boys-accessories",
+    "price": 85,
+    "unit": "piece",
+    "image": "/images/boys-accessories/water-gun.svg"
+  },
+  {
+    "id": "skipping-rope",
+    "name": "Skipping Rope",
+    "category": "boys-accessories",
+    "price": 70,
+    "unit": "piece",
+    "image": "/images/boys-accessories/skipping-rope.svg"
+  },
+  {
+    "id": "cricket-set",
+    "name": "Mini Cricket Set",
+    "category": "boys-accessories",
+    "price": 250,
+    "unit": "set",
+    "image": "/images/boys-accessories/cricket-set.svg"
+  },
+  {
+    "id": "broom",
+    "name": "Coconut Broom",
+    "category": "home-items",
+    "price": 110,
+    "unit": "piece",
+    "image": "/images/home-items/broom.svg"
+  },
+  {
+    "id": "laundry-basket",
+    "name": "Laundry Basket",
+    "category": "home-items",
+    "price": 240,
+    "unit": "piece",
+    "image": "/images/home-items/laundry-basket.svg"
+  },
+  {
+    "id": "doormat",
+    "name": "Coir Doormat",
+    "category": "home-items",
+    "price": 160,
+    "unit": "piece",
+    "image": "/images/home-items/doormat.svg"
+  },
+  {
+    "id": "storage-box",
+    "name": "Storage Box",
+    "category": "home-items",
+    "price": 190,
+    "unit": "piece",
+    "image": "/images/home-items/storage-box.svg"
+  },
+  {
+    "id": "cloth-hangers",
+    "name": "Wooden Hangers",
+    "category": "home-items",
+    "price": 120,
+    "unit": "set",
+    "image": "/images/home-items/cloth-hangers.svg"
+  },
+  {
+    "id": "floor-wiper",
+    "name": "Floor Wiper",
+    "category": "home-items",
+    "price": 95,
+    "unit": "piece",
+    "image": "/images/home-items/floor-wiper.svg"
+  },
+  {
+    "id": "dustpan",
+    "name": "Dustpan & Brush",
+    "category": "home-items",
+    "price": 85,
+    "unit": "set",
+    "image": "/images/home-items/dustpan.svg"
+  },
+  {
+    "id": "candle-set",
+    "name": "Clay Diya Set",
+    "category": "home-items",
+    "price": 75,
+    "unit": "set",
+    "image": "/images/home-items/candle-set.svg"
+  },
+  {
+    "id": "steel-spoon",
+    "name": "Steel Spoon Set",
+    "category": "kitchen-items",
+    "price": 180,
+    "unit": "set",
+    "image": "/images/kitchen-items/steel-spoon.svg",
+    "offer": "bogo"
+  },
+  {
+    "id": "cutting-board",
+    "name": "Wood Cutting Board",
+    "category": "kitchen-items",
+    "price": 210,
+    "unit": "piece",
+    "image": "/images/kitchen-items/cutting-board.svg"
+  },
+  {
+    "id": "clay-pot",
+    "name": "Clay Cooking Pot",
+    "category": "kitchen-items",
+    "price": 280,
+    "unit": "piece",
+    "image": "/images/kitchen-items/clay-pot.svg"
+  },
+  {
+    "id": "tea-cups",
+    "name": "Tea Cup Set",
+    "category": "kitchen-items",
+    "price": 240,
+    "unit": "set",
+    "image": "/images/kitchen-items/tea-cups.svg"
+  },
+  {
+    "id": "lunch-box",
+    "name": "Steel Lunch Box",
+    "category": "kitchen-items",
+    "price": 320,
+    "unit": "piece",
+    "image": "/images/kitchen-items/lunch-box.svg"
+  },
+  {
+    "id": "spice-jars",
+    "name": "Spice Jar Set",
+    "category": "kitchen-items",
+    "price": 195,
+    "unit": "set",
+    "image": "/images/kitchen-items/spice-jars.svg"
+  },
+  {
+    "id": "tea-strainer",
+    "name": "Steel Tea Strainer",
+    "category": "kitchen-items",
+    "price": 65,
+    "unit": "piece",
+    "image": "/images/kitchen-items/tea-strainer.svg"
+  },
+  {
+    "id": "rolling-pin",
+    "name": "Wood Rolling Pin",
+    "category": "kitchen-items",
+    "price": 90,
+    "unit": "piece",
+    "image": "/images/kitchen-items/rolling-pin.svg"
+  }
+]
